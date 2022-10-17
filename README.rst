@@ -3,8 +3,8 @@ Data Repository
 ==========================================================
 Source code and data files for the manuscript Role of oxygen states in low valence nickelates. Execute plot.ipynb to view the data.
 
-.. image:: https://zenodo.org/badge/7178670.svg
-   :target: https://zenodo.org/badge/latestdoi/7178670
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.7178670.svg
+   :target: https://doi.org/10.5281/zenodo.7178670
 
 How to cite
 -----------
