@@ -29,4 +29,4 @@ Run remotely
 ------------
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/mpmdean/Shen2022role/HEAD?filepath=fig1.ipynb
+ :target: https://mybinder.org/v2/gh/mpmdean/Shen2022role/HEAD?filepath=plot.ipynb
